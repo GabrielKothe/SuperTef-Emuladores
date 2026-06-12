@@ -1,6 +1,6 @@
 # Emuladores SuperTEF
 
-Desenvolva e integre sua aplicação ao ecossistema **SuperTEF** usando nossos emuladores para **Windows** e **Android**.
+Desenvolva e integre sua aplicação ao **SuperTEF** usando nossos emuladores para **Windows** e **Android**.
 
 Com o emulador, você não precisa possuir uma máquina SmartPOS física para iniciar sua integração. Basta instalar, configurar sua aplicação e começar a testar pagamentos, consultas de status e estornos diretamente no ambiente de desenvolvimento.
 
